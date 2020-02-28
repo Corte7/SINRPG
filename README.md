@@ -1,4 +1,4 @@
-# SIN RPG {#sin-rpg}
+# SIN RPG
 
 Skills 1 - 5
 
