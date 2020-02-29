@@ -1,4 +1,4 @@
-# Combat: {#combat}
+# Combat:
 
 1 - Attacker rolls (Firearms/Melee) to hit vs DC 5 + modifiers (Range, Weather conditions, Target size) if successful hit, otherwise miss. Excess vs hit adds to damage
 
@@ -8,7 +8,7 @@
 
 4 - The target rolls D10 + Endurance to determine what damage they take (either dying or wounded)
 
-## Conditions {#conditions}
+## Conditions
 
 BURN: Reduces Endurance by 2 (instead of 1) if the attack does not reduce the character to Dying. On a crit reduces their Endurance by 5 instead.
 

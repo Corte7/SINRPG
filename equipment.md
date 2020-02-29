@@ -1,8 +1,6 @@
-# Equipment: {#equipment}
+# Equipment:
 
-## Weapons {#weapons}
-
-Range - Guns grant their bonus up to their effective range, after which you may only use your skill plus other relevant bonuses, you cannot hit a target at more than a gun’s maximum range.
+## Weapons
 
 **Firearms**
 
@@ -12,6 +10,8 @@ Range - Guns grant their bonus up to their effective range, after which you may 
 | Shotgun | +0 Firearms | 4 | 100m | 200m | 8 |
 | Rifle | +0 Firearms | 3 | 300m | 600m | 20 |
 | Elite Heavy Plasma Rifle | +3 Firearms | 4 THROUGH BURN | 300m | 600m | 20 |
+
+Firearms grant their bonus up to their effective range, after which you may only use your skill plus other relevant bonuses, you cannot hit a target at more than a gun’s maximum range.
 
 **Melee Weapons**
 
@@ -55,7 +55,7 @@ Range - Guns grant their bonus up to their effective range, after which you may 
 | Advanced Range Extension | N/A | Increases maximum range by 20% |
 | Elite Range Extension | N/A | Increases maximum range by 50% |
 
-## Armour {#armour}
+## Armour
 
 **Armour**
 
@@ -75,7 +75,7 @@ Range - Guns grant their bonus up to their effective range, after which you may 
 | Fireproof | Ignore BURN |
 | Stable | Ignore STUN |
 
-## Cyberware {#cyberware}
+## Cyberware
 
 **Cyberware**
 
@@ -97,5 +97,3 @@ Range - Guns grant their bonus up to their effective range, after which you may 
 | Upgraded CNS Replacement | +1 Dodge | Replaces the Central Nervous System with faster optical cables |
 | Advanced CNS Replacement | +2 Dodge | Replaces the Central Nervous System with faster optical cables |
 | Elite CNS Replacement | +3 Dodge | Replaces the Central Nervous System with faster optical cables |
-
-Skills:
